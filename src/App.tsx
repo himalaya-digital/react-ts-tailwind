@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-      <p className="text-3xl underline">Realtime Order System</p>
+      <p className="text-3xl underline">React 18 + Tailwind</p>
       <button
         className="mt-2 rounded bg-indigo-500 px-4 py-1 text-white"
         onClick={(e) => setCount(count + 1)}
